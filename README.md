@@ -1,6 +1,8 @@
 # meuprimeirorepositorio<!DOCTYPE html>
 <HEAD>
 <meta charset="UTF8">
+<link>= 'staleessheet' stalle.css;
+
 </HEAD>
 <BODY>
 <h1>Minha página HTML</h1>
